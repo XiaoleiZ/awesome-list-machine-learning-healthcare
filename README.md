@@ -30,3 +30,5 @@ Upcoming Conferences
 [A guide to deep learning in healthcare](https://www.nature.com/articles/s41591-018-0316-z)
 
 [The practical implementation of artificial intelligence technologies in medicine](https://www.nature.com/articles/s41591-018-0307-0)
+
+[High-performance medicine: the convergence of human and artificial intelligence](https://www.nature.com/articles/s41591-018-0300-7)
