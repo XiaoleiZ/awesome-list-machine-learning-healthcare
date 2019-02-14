@@ -1,6 +1,6 @@
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-# awesome-list-machine-learning-healthcare
-A list of awesome selected resources on the application of machine learning in healthcare including courses, key publications and conferences. 
+# awesome-list-machine-learning-healthcare [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+> A list of awesome selected resources on the application of machine learning in healthcare including courses, key publications and conferences. 
 
 ## Courses
 [MIT Machine Learning for Healthcare (Spring 2019)](https://mlhc19mit.github.io)
@@ -33,3 +33,15 @@ Upcoming Conferences
 [The practical implementation of artificial intelligence technologies in medicine](https://www.nature.com/articles/s41591-018-0307-0)
 
 [High-performance medicine: the convergence of human and artificial intelligence](https://www.nature.com/articles/s41591-018-0300-7)
+
+## Contribute
+
+Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+
+
+## License
+
+This archive is developed under license [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
+
+To the extent possible under law, Xiaolei Zhang has waived all copyright and
+related or neighboring rights to this work.
