@@ -1,6 +1,6 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 # awesome-list-machine-learning-healthcare
-A list of awesome resources on the application of machine learning in healthcare
+A list of awesome selected resources on the application of machine learning in healthcare including courses, key publications and conferences. 
 
 ## Courses
 [MIT Machine Learning for Healthcare (Spring 2019)](https://mlhc19mit.github.io)
