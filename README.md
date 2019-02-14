@@ -1,5 +1,5 @@
-# awesome-list-machine-learning-healthcare
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# awesome-list-machine-learning-healthcare
 A list of awesome resources on the application of machine learning in healthcare
 
 ## Courses
