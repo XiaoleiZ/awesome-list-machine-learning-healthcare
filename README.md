@@ -34,6 +34,14 @@ Upcoming Conferences
 
 [High-performance medicine: the convergence of human and artificial intelligence](https://www.nature.com/articles/s41591-018-0300-7)
 
+## Journal Collections
+
+[JAMA - Deep Learning and Artificial Intelligence in Health Care](https://sites.jamanetwork.com/machine-learning/)
+
+[PLOS - Machine Learning in Health and Biomedicine](https://collections.plos.org/mlforhealth)
+
+[Nature Medicine - Digital Medicine](https://www.nature.com/collections/egjifhdcih)
+
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
