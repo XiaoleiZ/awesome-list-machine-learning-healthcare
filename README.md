@@ -5,6 +5,8 @@
 ## Courses
 [MIT Machine Learning for Healthcare (Spring 2019)](https://mlhc19mit.github.io)
 
+[Princeton Machine Learning for Health Care (Fall 2018)](https://www.cs.princeton.edu/~bee/courses/cos597c.html)
+
 [MIT Machine Learning for Healthcare (Spring 2017 )](https://mlhc17mit.github.io)
 
 [Stanford CS 273B Deep Learning in Genomics and Biomedicine (Fall 2016)](https://canvas.stanford.edu/courses/51037)
@@ -13,11 +15,11 @@
 
 Previous Conferences
 
-[2017 NIPS ML4H: Machine Learning for Health workshop](https://ml4health.github.io/2017/)
-
 [2018 NeurIPS ML4H: Machine Learning for Health workshop](https://ml4health.github.io/2018/)
 
 [2018 Machine Learning for Healthcare](https://www.mlforhc.org/2018-conference/)
+
+[2017 NIPS ML4H: Machine Learning for Health workshop](https://ml4health.github.io/2017/)
 
 [2017 Machine Learning for Healthcare](https://www.mlforhc.org/sponsors/)
 
