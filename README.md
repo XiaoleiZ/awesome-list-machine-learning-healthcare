@@ -1,4 +1,4 @@
-# awesome-list-machine-learning-healthcare [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Machine Learning for Healthcare [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A list of awesome selected resources on the application of machine learning in healthcare including courses, key publications and conferences. 
 
@@ -13,7 +13,7 @@
 
 ## Conferences
 
-Previous Conferences
+Previous Conferencesawesome
 
 [2018 NeurIPS ML4H: Machine Learning for Health workshop](https://ml4health.github.io/2018/)
 
