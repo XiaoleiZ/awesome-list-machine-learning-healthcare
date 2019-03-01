@@ -36,6 +36,8 @@ Upcoming Conferences
 
 [High-performance medicine: the convergence of human and artificial intelligence](https://www.nature.com/articles/s41591-018-0300-7)
 
+[Deep Review: A collaboratively written review paper on deep learning, genomics, and precision medicine](https://greenelab.github.io/deep-review/)
+
 ## Journal Collections
 
 [JAMA - Deep Learning and Artificial Intelligence in Health Care](https://sites.jamanetwork.com/machine-learning/)
