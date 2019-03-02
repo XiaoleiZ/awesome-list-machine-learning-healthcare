@@ -17,7 +17,7 @@ Previous Conferencesawesome
 
 [2018 NeurIPS ML4H: Machine Learning for Health workshop](https://ml4health.github.io/2018/)
 
-[2018 Machine Learning for Healthcare](https://www.mlforhc.org/2018-conference/)
+[2018 Machine Learning for Healthcare](https://www.mlforhc.org/2018)
 
 [2017 NIPS ML4H: Machine Learning for Health workshop](https://ml4health.github.io/2017/)
 
