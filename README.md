@@ -38,6 +38,8 @@ Upcoming Conferences
 
 [Deep Review: A collaboratively written review paper on deep learning, genomics, and precision medicine](https://greenelab.github.io/deep-review/)
 
+[OOpportunities in Machine Learning for Healthcare](https://arxiv.org/abs/1806.00388)
+
 ## Journal Collections
 
 [JAMA - Deep Learning and Artificial Intelligence in Health Care](https://sites.jamanetwork.com/machine-learning/)
