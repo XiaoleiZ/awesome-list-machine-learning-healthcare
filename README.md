@@ -28,6 +28,8 @@ Upcoming Conferences
 [Machine Learning for Healthcare](https://www.mlforhc.org) (submission deadline: March 29th, 2019)
 
 ## Introduction or Review articles
+[Machine Learning in Medicine](https://www.nejm.org/doi/full/10.1056/NEJMra1814259)
+
 [A primer on deep learning in genomics](https://www.nature.com/articles/s41588-018-0295-5)
 
 [A guide to deep learning in healthcare](https://www.nature.com/articles/s41591-018-0316-z)
