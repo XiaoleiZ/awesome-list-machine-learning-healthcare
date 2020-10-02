@@ -3,6 +3,8 @@
 > A list of awesome selected resources on the application of machine learning in healthcare including courses, key publications and conferences. 
 
 ## Courses
+[MIT Computational Systems Biology - Deep Learning in Life Sciences](https://mit6874.github.io/)
+
 [MIT Machine Learning for Healthcare (Spring 2019)](https://mlhc19mit.github.io)
 
 [Princeton Machine Learning for Health Care (Fall 2018)](https://www.cs.princeton.edu/~bee/courses/cos597c.html)
